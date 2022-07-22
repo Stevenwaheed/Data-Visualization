@@ -1,12 +1,14 @@
 # Data-Visualization
 * Hello seaborn
 
-* line charts
+* Line charts
 
-* scatter plots
+* Scatter plots
 
-* bar charts and heatmaps
+* Bar charts and heatmaps
 
-* distributions
+* Distributions
 
-* final project
+* Choosing plot types and custom style
+
+* Final project
